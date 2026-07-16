@@ -41,58 +41,57 @@
 </div>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <tr style="border: none;">
-    <!-- Column 1: Core Bio Card -->
-    <td width="48%" valign="top" style="border: none; padding: 20px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-      <span style="font-size: 11px; font-weight: 700; color: #ff9933; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 8px;">BIOGRAPHY</span>
-      <h3 style="margin: 0 0 12px 0; color: #ffffff; font-weight: 600; font-size: 20px; border-bottom: none;">Raushan Kumar</h3>
-      <p style="color: #8b949e; font-size: 13.5px; line-height: 1.6; margin: 0 0 20px 0;">
-        A passionate Full Stack Engineer specializing in engineering scalable backends, performant database architectures, and intuitive web interfaces. Dedicated to writing clean, maintainable code and solving complex technical challenges.
-      </p>
-      <table width="100%" style="border-collapse: collapse; border: none; margin-top: 15px; border-top: 1px solid #30363d;">
-        <tr style="border: none;">
-          <td style="border: none; padding-top: 12px; width: 50%;">
-            <span style="font-size: 10px; color: #8b949e; display: block; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px;">Role</span>
-            <strong style="font-size: 13px; color: #ffffff; font-weight: 600;">Full Stack Developer</strong>
-          </td>
-          <td style="border: none; padding-top: 12px; width: 50%;">
-            <span style="font-size: 10px; color: #8b949e; display: block; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px;">Location</span>
-            <strong style="font-size: 13px; color: #ffffff; font-weight: 600;">India</strong>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Spacer -->
-    <td width="4%" style="border: none;"></td>
-    <!-- Column 2: Focus & Interests -->
-    <td width="48%" valign="top" style="border: none; padding: 20px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-      <span style="font-size: 11px; font-weight: 700; color: #22c55e; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 8px;">CURRENT FOCUS</span>
-      <h3 style="margin: 0 0 12px 0; color: #ffffff; font-weight: 600; font-size: 20px; border-bottom: none;">Core Domains</h3>
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr style="border: none;">
-          <td valign="top" style="padding: 8px 0; border: none; width: 15px; color: #22c55e; font-weight: bold; font-size: 14px;">—</td>
-          <td style="padding: 8px 0 8px 10px; border: none; color: #8b949e; font-size: 13px; line-height: 1.5;">
-            <strong style="color: #ffffff; font-size: 13.5px;">Distributed Systems</strong><br />
-            Designing message queues and caching layers for high throughput and scale.
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td valign="top" style="padding: 8px 0; border: none; color: #ff9933; font-weight: bold; font-size: 14px;">—</td>
-          <td style="padding: 8px 0 8px 10px; border: none; color: #8b949e; font-size: 13px; line-height: 1.5;">
-            <strong style="color: #ffffff; font-size: 13.5px;">Cloud Infrastructure</strong><br />
-            Implementing containerized orchestrations, microservices, and CI/CD pipelines.
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td valign="top" style="padding: 8px 0; border: none; color: #58a6ff; font-weight: bold; font-size: 14px;">—</td>
-          <td style="padding: 8px 0 8px 10px; border: none; color: #8b949e; font-size: 13px; line-height: 1.5;">
-            <strong style="color: #ffffff; font-size: 13.5px;">UI Engineering</strong><br />
-            Tuning responsive web interfaces for flawless micro-interactions and performance.
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr style="border: none;">
+<td style="border: none; padding: 0;">
+<!-- Biography Card -->
+<div style="background: #161b22; border-radius: 8px; border: 1px solid #30363d; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin-bottom: 16px;">
+<span style="font-size: 10px; font-weight: 700; color: #ff9933; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 6px;">BIOGRAPHY</span>
+<h3 style="margin: 0 0 12px 0; color: #ffffff; font-weight: 600; font-size: 20px; border-bottom: none;">Raushan Kumar</h3>
+<p style="color: #8b949e; font-size: 13.5px; line-height: 1.6; margin: 0 0 15px 0;">
+A passionate Full Stack Engineer specializing in engineering scalable backends, performant database architectures, and intuitive web interfaces. Dedicated to writing clean, maintainable code and solving complex technical challenges.
+</p>
+<div style="margin-top: 15px; padding-top: 12px; border-top: 1px solid #30363d;">
+<div style="display: inline-block; width: 49%; vertical-align: top;">
+<span style="font-size: 10px; color: #8b949e; display: block; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 2px;">Role</span>
+<strong style="font-size: 13px; color: #ffffff; font-weight: 600;">Full Stack Developer</strong>
+</div>
+<div style="display: inline-block; width: 49%; vertical-align: top;">
+<span style="font-size: 10px; color: #8b949e; display: block; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 2px;">Location</span>
+<strong style="font-size: 13px; color: #ffffff; font-weight: 600;">India</strong>
+</div>
+</div>
+</div>
+<!-- Core Domains Card -->
+<div style="background: #161b22; border-radius: 8px; border: 1px solid #30363d; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin-bottom: 20px;">
+<span style="font-size: 10px; font-weight: 700; color: #22c55e; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 6px;">CURRENT FOCUS</span>
+<h3 style="margin: 0 0 12px 0; color: #ffffff; font-weight: 600; font-size: 20px; border-bottom: none;">Core Domains</h3>
+<div style="margin: 12px 0; padding-bottom: 12px; border-bottom: 1px solid #21262d;">
+<div style="font-size: 13.5px; color: #ffffff; font-weight: 600; margin-bottom: 4px;">
+<span style="color: #22c55e;">—</span> Distributed Systems
+</div>
+<p style="margin: 0; color: #8b949e; font-size: 13px; line-height: 1.5; padding-left: 14px;">
+Designing message queues and caching layers for high throughput and scale.
+</p>
+</div>
+<div style="margin: 12px 0; padding-bottom: 12px; border-bottom: 1px solid #21262d;">
+<div style="font-size: 13.5px; color: #ffffff; font-weight: 600; margin-bottom: 4px;">
+<span style="color: #ff9933;">—</span> Cloud Infrastructure
+</div>
+<p style="margin: 0; color: #8b949e; font-size: 13px; line-height: 1.5; padding-left: 14px;">
+Implementing containerized orchestrations, microservices, and CI/CD pipelines.
+</p>
+</div>
+<div style="margin: 12px 0 0 0;">
+<div style="font-size: 13.5px; color: #ffffff; font-weight: 600; margin-bottom: 4px;">
+<span style="color: #58a6ff;">—</span> UI Engineering
+</div>
+<p style="margin: 0; color: #8b949e; font-size: 13px; line-height: 1.5; padding-left: 14px;">
+Tuning responsive web interfaces for flawless micro-interactions and performance.
+</p>
+</div>
+</div>
+</td>
+</tr>
 </table>
 
 <hr style="border: none; border-top: 1px solid #30363d; margin: 30px 0;" />
