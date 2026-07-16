@@ -13,54 +13,41 @@
 </table>
 
 <!-- GitHub Analytics Section -->
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin-bottom: 20px;">
-  <!-- Heading (full width, black bg, inside container, centered, no emoji) -->
-  <div align="center" style="background: #000000; padding: 16px 20px;">
-    <h3 style="margin: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; border-bottom: none; display: inline-block;">GitHub Analytics</h3>
-  </div>
-
-  <!-- Content (inside the container) -->
-  <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: #161b22;">
-    <tr style="border: none;">
-      <!-- Left: GitHub Stats (Redesigned UI) -->
-      <td width="48%" valign="middle" style="border: none; padding: 25px; border-right: 1px solid #30363d; background: #161b22;">
-        <span style="font-size: 10px; font-weight: 700; color: #00f2fe; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 6px;">OVERVIEW</span>
-        <h4 style="margin: 0 0 16px 0; color: #ffffff; font-weight: 600; font-size: 15px; border-bottom: none;">Raushan Kumar's GitHub Stats</h4>
-        
-        <!-- Stat Items without nested tables to avoid GitHub's default table borders -->
-        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
-          <span style="font-size: 12.5px; color: #c9d1d9;">⭐ &nbsp; Total Stars Earned</span>
-          <span style="float: right; font-size: 12.5px; color: #ff9933; font-weight: 700;">0</span>
-          <div style="clear: both;"></div>
-        </div>
-        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
-          <span style="font-size: 12.5px; color: #c9d1d9;">🔥 &nbsp; Total Commits (last year)</span>
-          <span style="float: right; font-size: 12.5px; color: #22c55e; font-weight: 700;">5</span>
-          <div style="clear: both;"></div>
-        </div>
-        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
-          <span style="font-size: 12.5px; color: #c9d1d9;">🔀 &nbsp; Total PRs</span>
-          <span style="float: right; font-size: 12.5px; color: #a855f7; font-weight: 700;">0</span>
-          <div style="clear: both;"></div>
-        </div>
-        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
-          <span style="font-size: 12.5px; color: #c9d1d9;">❗ &nbsp; Total Issues</span>
-          <span style="float: right; font-size: 12.5px; color: #58a6ff; font-weight: 700;">1</span>
-          <div style="clear: both;"></div>
-        </div>
-        <div style="margin: 8px 0; padding: 6px 0 0 0;">
-          <span style="font-size: 12.5px; color: #c9d1d9;">📦 &nbsp; Contributed to (last year)</span>
-          <span style="float: right; font-size: 12.5px; color: #ff007f; font-weight: 700;">0</span>
-          <div style="clear: both;"></div>
-        </div>
-      </td>
-      
-      <!-- Right: Streak Stats (Same UI) -->
-      <td width="52%" valign="middle" style="border: none; padding: 25px; background: #161b22;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=161b22&amp;border_radius=8" width="100%" alt="GitHub Streak" style="display: block; margin: 0 auto;" />
-      </td>
-    </tr>
-  </table>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:8px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;margin-bottom:20px;">
+<div align="center" style="background:#000000;padding:16px 20px;">
+<h3 style="margin:0;color:#ffffff;font-size:18px;font-weight:700;border-bottom:none;">GitHub Analytics</h3>
+</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;background:#161b22;">
+<tr style="border:none;">
+<td width="48%" valign="middle" style="border:none;padding:25px;border-right:1px solid #30363d;background:#161b22;">
+<span style="font-size:10px;font-weight:700;color:#00f2fe;letter-spacing:1.5px;text-transform:uppercase;display:block;margin-bottom:6px;">OVERVIEW</span>
+<h4 style="margin:0 0 16px 0;color:#ffffff;font-weight:600;font-size:15px;border-bottom:none;">Raushan Kumar's GitHub Stats</h4>
+<p style="margin:8px 0;padding:6px 0;border-bottom:1px solid #21262d;">
+<span style="font-size:12.5px;color:#c9d1d9;">⭐ &nbsp; Total Stars Earned</span>
+<span style="float:right;font-size:12.5px;color:#ff9933;font-weight:700;">0</span>
+</p>
+<p style="margin:8px 0;padding:6px 0;border-bottom:1px solid #21262d;">
+<span style="font-size:12.5px;color:#c9d1d9;">🔥 &nbsp; Total Commits (last year)</span>
+<span style="float:right;font-size:12.5px;color:#22c55e;font-weight:700;">5</span>
+</p>
+<p style="margin:8px 0;padding:6px 0;border-bottom:1px solid #21262d;">
+<span style="font-size:12.5px;color:#c9d1d9;">🔀 &nbsp; Total PRs</span>
+<span style="float:right;font-size:12.5px;color:#a855f7;font-weight:700;">0</span>
+</p>
+<p style="margin:8px 0;padding:6px 0;border-bottom:1px solid #21262d;">
+<span style="font-size:12.5px;color:#c9d1d9;">❗ &nbsp; Total Issues</span>
+<span style="float:right;font-size:12.5px;color:#58a6ff;font-weight:700;">1</span>
+</p>
+<p style="margin:8px 0;padding:6px 0 0 0;">
+<span style="font-size:12.5px;color:#c9d1d9;">📦 &nbsp; Contributed to (last year)</span>
+<span style="float:right;font-size:12.5px;color:#ff007f;font-weight:700;">0</span>
+</p>
+</td>
+<td width="52%" valign="middle" style="border:none;padding:25px;background:#161b22;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=161b22&amp;border_radius=8" width="100%" alt="GitHub Streak" style="display:block;margin:0 auto;" />
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Activity Graph -->
