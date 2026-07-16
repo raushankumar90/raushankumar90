@@ -46,112 +46,118 @@
 </div>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <!-- Row 1: Expert Stack (Full Width) -->
-  <tr style="border: none;">
-    <td colspan="3" valign="top" style="border: none; padding: 20px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-      <span style="font-size: 11px; font-weight: 700; color: #ff9933; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 8px;">01. EXPERT &amp; CORE</span>
-      <h4 style="margin: 0 0 15px 0; color: #ffffff; font-weight: 600; font-size: 15px; border-bottom: none;">Primary Stack &amp; Core Foundations</h4>
-      <div style="margin-top: 10px;">
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #f7df1e; padding: 5px 12px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/javascript" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">JavaScript</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #3178c6; padding: 5px 12px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/typescript" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">TypeScript</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #61dafb; padding: 5px 12px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/react" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">React</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #5fa04e; padding: 5px 12px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/nodedotjs" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Node.js</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #e34f26; padding: 5px 12px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/html5" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">HTML5</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #1572b6; padding: 5px 12px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/css3" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">CSS3</span>
-        </span>
-      </div>
-    </td>
-  </tr>
-
-  <!-- Vertical Spacer Row -->
-  <tr style="border: none; height: 16px;">
-    <td colspan="3" style="border: none; height: 16px; padding: 0;"></td>
-  </tr>
-
-  <!-- Row 2: Proficient & Familiar Stack (Side-by-side) -->
-  <tr style="border: none;">
-    <!-- Proficient -->
-    <td width="48%" valign="top" style="border: none; padding: 20px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-      <span style="font-size: 11px; font-weight: 700; color: #22c55e; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 8px;">02. PROFICIENT</span>
-      <h4 style="margin: 0 0 15px 0; color: #ffffff; font-weight: 600; font-size: 15px; border-bottom: none;">Advanced Frameworks &amp; Tools</h4>
-      <div style="margin-top: 10px;">
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #ffffff; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Next.js</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #ffffff; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/express/ffffff" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Express</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #47a248; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/mongodb" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">MongoDB</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #4169e1; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/postgresql" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">PostgreSQL</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #f05032; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/git" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Git</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #2496ed; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/docker" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Docker</span>
-        </span>
-      </div>
-    </td>
-    <!-- Spacer -->
-    <td width="4%" style="border: none;"></td>
-    <!-- Familiar -->
-    <td width="48%" valign="top" style="border: none; padding: 20px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-      <span style="font-size: 11px; font-weight: 700; color: #58a6ff; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 8px;">03. FAMILIAR</span>
-      <h4 style="margin: 0 0 15px 0; color: #ffffff; font-weight: 600; font-size: 15px; border-bottom: none;">Secondary Stack &amp; Ecosystem</h4>
-      <div style="margin-top: 10px;">
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #3776ab; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/python" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Python</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #764abc; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/redux" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Redux</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #06b6d4; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/tailwindcss" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Tailwind</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #dc382d; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/redis" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Redis</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #ff9900; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/amazonwebservices" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">AWS</span>
-        </span>
-        <span style="display: inline-block; background: #0d1117; border: 1px solid #fcc624; padding: 5px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin: 4px 2px; font-weight: 500;">
-          <img src="https://cdn.simpleicons.org/linux" width="14" height="14" style="margin-right: 6px; vertical-align: middle; display: inline-block;" />
-          <span style="vertical-align: middle;">Linux</span>
-        </span>
-      </div>
-    </td>
-  </tr>
+<tr style="border: none;">
+<!-- Card 1: Frontend -->
+<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+  <div style="font-size: 10px; font-weight: 700; color: #00f2fe; letter-spacing: 1.5px; margin-bottom: 8px; text-transform: uppercase;">Frontend</div>
+  <h3 style="margin: 0 0 16px 0; color: #ffffff; font-size: 16px; font-weight: 600; border: none;">User Interfaces &amp; State</h3>
+  <div style="line-height: 2.2;">
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #f7df1e; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/javascript" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">JavaScript</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #3178c6; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/typescript" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">TypeScript</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #61dafb; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/react" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">React</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #ffffff; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Next.js</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #764abc; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/redux" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Redux</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #06b6d4; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/tailwindcss" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Tailwind</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #e34f26; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/html5" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">HTML5</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #1572b6; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/css3" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">CSS3</span>
+    </span>
+  </div>
+</td>
+<!-- Spacer -->
+<td width="4%" style="border: none;"></td>
+<!-- Card 2: Backend -->
+<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+  <div style="font-size: 10px; font-weight: 700; color: #ff9933; letter-spacing: 1.5px; margin-bottom: 8px; text-transform: uppercase;">Backend</div>
+  <h3 style="margin: 0 0 16px 0; color: #ffffff; font-size: 16px; font-weight: 600; border: none;">Server Logic &amp; Runtimes</h3>
+  <div style="line-height: 2.2;">
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #5fa04e; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/nodedotjs" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Node.js</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #ffffff; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/express/ffffff" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Express</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #3776ab; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/python" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Python</span>
+    </span>
+  </div>
+</td>
+</tr>
+<!-- Row Spacer -->
+<tr style="border: none; height: 16px;">
+  <td colspan="3" style="border: none; height: 16px; padding: 0;"></td>
+</tr>
+<tr style="border: none;">
+<!-- Card 3: Database -->
+<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+  <div style="font-size: 10px; font-weight: 700; color: #22c55e; letter-spacing: 1.5px; margin-bottom: 8px; text-transform: uppercase;">Database</div>
+  <h3 style="margin: 0 0 16px 0; color: #ffffff; font-size: 16px; font-weight: 600; border: none;">Storage, Caching &amp; Querying</h3>
+  <div style="line-height: 2.2;">
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #47a248; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/mongodb" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">MongoDB</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #4169e1; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/postgresql" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">PostgreSQL</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #dc382d; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/redis" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Redis</span>
+    </span>
+  </div>
+</td>
+<!-- Spacer -->
+<td width="4%" style="border: none;"></td>
+<!-- Card 4: Cloud & DevOps -->
+<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+  <div style="font-size: 10px; font-weight: 700; color: #58a6ff; letter-spacing: 1.5px; margin-bottom: 8px; text-transform: uppercase;">Cloud &amp; DevOps</div>
+  <h3 style="margin: 0 0 16px 0; color: #ffffff; font-size: 16px; font-weight: 600; border: none;">Infrastructure &amp; Tooling</h3>
+  <div style="line-height: 2.2;">
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #2496ed; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/docker" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Docker</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #f05032; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/git" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Git</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #ff9900; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">AWS</span>
+    </span>
+    <span style="display: inline-block; background: #0d1117; border: 1px solid #fcc624; border-radius: 14px; padding: 4px 10px; margin: 2px 3px; font-size: 12px; color: #c9d1d9; font-weight: 500;">
+      <img src="https://cdn.simpleicons.org/linux" width="12" height="12" style="vertical-align: middle; margin-right: 6px; display: inline-block;" />
+      <span style="vertical-align: middle;">Linux</span>
+    </span>
+  </div>
+</td>
+</tr>
 </table>
 
 <hr style="border: none; border-top: 1px solid #30363d; margin: 30px 0;" />

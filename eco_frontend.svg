@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 170" width="410" height="170">
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      transition: stroke 0.3s;
+    }
+    .card:hover {
+      stroke: #00f2fe;
+    }
+    .text-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .text-subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+    }
+    .badge-bg {
+      fill: #0d1117;
+      stroke-width: 1px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      fill: #c9d1d9;
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="409" height="169" rx="8" />
+  <text class="text-subtitle" x="20" y="32" fill="#00f2fe">FRONTEND</text>
+  <text class="text-title" x="20" y="52">User Interfaces &amp; State</text>
+
+  <!-- Row 1 -->
+  <!-- JavaScript -->
+  <g transform="translate(20, 75)">
+    <rect class="badge-bg" width="95" height="28" rx="14" stroke="#f7df1e" />
+    <image href="https://cdn.simpleicons.org/javascript" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">JavaScript</text>
+  </g>
+  <!-- TypeScript -->
+  <g transform="translate(125, 75)">
+    <rect class="badge-bg" width="95" height="28" rx="14" stroke="#3178c6" />
+    <image href="https://cdn.simpleicons.org/typescript" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">TypeScript</text>
+  </g>
+  <!-- React -->
+  <g transform="translate(230, 75)">
+    <rect class="badge-bg" width="70" height="28" rx="14" stroke="#61dafb" />
+    <image href="https://cdn.simpleicons.org/react" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">React</text>
+  </g>
+  <!-- Next.js -->
+  <g transform="translate(310, 75)">
+    <rect class="badge-bg" width="80" height="28" rx="14" stroke="#ffffff" />
+    <image href="https://cdn.simpleicons.org/nextdotjs/ffffff" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">Next.js</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- Redux -->
+  <g transform="translate(20, 115)">
+    <rect class="badge-bg" width="75" height="28" rx="14" stroke="#764abc" />
+    <image href="https://cdn.simpleicons.org/redux" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">Redux</text>
+  </g>
+  <!-- Tailwind -->
+  <g transform="translate(105, 115)">
+    <rect class="badge-bg" width="85" height="28" rx="14" stroke="#06b6d4" />
+    <image href="https://cdn.simpleicons.org/tailwindcss" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">Tailwind</text>
+  </g>
+  <!-- HTML5 -->
+  <g transform="translate(200, 115)">
+    <rect class="badge-bg" width="75" height="28" rx="14" stroke="#e34f26" />
+    <image href="https://cdn.simpleicons.org/html5" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">HTML5</text>
+  </g>
+  <!-- CSS3 -->
+  <g transform="translate(285, 115)">
+    <rect class="badge-bg" width="70" height="28" rx="14" stroke="#1572b6" />
+    <image href="https://cdn.simpleicons.org/css3" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">CSS3</text>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 170" width="410" height="170">
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      transition: stroke 0.3s;
+    }
+    .card:hover {
+      stroke: #ff9933;
+    }
+    .text-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .text-subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+    }
+    .badge-bg {
+      fill: #0d1117;
+      stroke-width: 1px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      fill: #c9d1d9;
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="409" height="169" rx="8" />
+  <text class="text-subtitle" x="20" y="32" fill="#ff9933">BACKEND</text>
+  <text class="text-title" x="20" y="52">Server Logic &amp; Runtimes</text>
+
+  <!-- Node.js -->
+  <g transform="translate(20, 75)">
+    <rect class="badge-bg" width="85" height="28" rx="14" stroke="#5fa04e" />
+    <image href="https://cdn.simpleicons.org/nodedotjs" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">Node.js</text>
+  </g>
+  <!-- Express -->
+  <g transform="translate(115, 75)">
+    <rect class="badge-bg" width="85" height="28" rx="14" stroke="#ffffff" />
+    <image href="https://cdn.simpleicons.org/express/ffffff" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">Express</text>
+  </g>
+  <!-- Python -->
+  <g transform="translate(210, 75)">
+    <rect class="badge-bg" width="80" height="28" rx="14" stroke="#3776ab" />
+    <image href="https://cdn.simpleicons.org/python" x="8" y="7" width="14" height="14" />
+    <text class="badge-text" x="28" y="18">Python</text>
+  </g>
+</svg>
