@@ -18,7 +18,7 @@
 </div>
 <!-- GitHub Stats & Streak Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushankumar90&amp;show_icons=true&amp;theme=dark&amp;bg_color=161b22&amp;border_color=30363d&amp;title_color=00f2fe&amp;icon_color=8a2be2&amp;text_color=a0aec0&amp;border_radius=8" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=raushankumar90&amp;show_icons=true&amp;theme=dark&amp;bg_color=161b22&amp;border_color=30363d&amp;title_color=00f2fe&amp;icon_color=8a2be2&amp;text_color=a0aec0&amp;border_radius=8" height="175" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=30363d&amp;border_radius=8" height="175" alt="GitHub Streak" />
 </p>
 
