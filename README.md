@@ -13,95 +13,55 @@
 </table>
 
 <!-- GitHub Analytics Section -->
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #161b22; border-radius: 8px; border: 1px solid #30363d; overflow: hidden;">
-  <!-- Heading Row (full width, black bg, inside container) -->
-  <tr style="border: none;">
-    <td colspan="3" style="border: none; background: #000000; padding: 16px 20px; text-align: left;">
-      <h3 style="margin: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; border-bottom: none; display: block; width: 100%;">📊 GitHub Analytics</h3>
-    </td>
-  </tr>
-  <!-- Content Row -->
-  <tr style="border: none;">
-    <!-- Left: GitHub Stats (Redesigned UI) -->
-    <td width="48%" valign="top" style="border: none; padding: 20px;">
-      <span style="font-size: 11px; font-weight: 700; color: #00f2fe; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 8px;">OVERVIEW</span>
-      <h4 style="margin: 0 0 18px 0; color: #ffffff; font-weight: 600; font-size: 16px; border-bottom: none;">Raushan Kumar's GitHub Stats</h4>
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr style="border: none;">
-          <td style="border: none; padding: 7px 0;">
-            <table width="100%" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;">
-                <td width="20" style="border: none; padding: 0; color: #ff9933; font-size: 14px; vertical-align: middle;">⭐</td>
-                <td style="border: none; padding: 0; color: #c9d1d9; font-size: 13px; font-weight: 500;">Total Stars Earned</td>
-                <td align="right" style="border: none; padding: 0;">
-                  <span style="display: inline-block; background: rgba(255, 153, 51, 0.1); border: 1px solid rgba(255, 153, 51, 0.25); padding: 2px 10px; border-radius: 12px; font-size: 12px; color: #ff9933; font-weight: 700;">0</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none; padding: 7px 0; border-top: 1px solid #21262d;">
-            <table width="100%" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;">
-                <td width="20" style="border: none; padding: 0; color: #22c55e; font-size: 14px; vertical-align: middle;">🔥</td>
-                <td style="border: none; padding: 0; color: #c9d1d9; font-size: 13px; font-weight: 500;">Total Commits (last year)</td>
-                <td align="right" style="border: none; padding: 0;">
-                  <span style="display: inline-block; background: rgba(34, 197, 94, 0.1); border: 1px solid rgba(34, 197, 94, 0.25); padding: 2px 10px; border-radius: 12px; font-size: 12px; color: #22c55e; font-weight: 700;">5</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none; padding: 7px 0; border-top: 1px solid #21262d;">
-            <table width="100%" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;">
-                <td width="20" style="border: none; padding: 0; color: #8a2be2; font-size: 14px; vertical-align: middle;">🔀</td>
-                <td style="border: none; padding: 0; color: #c9d1d9; font-size: 13px; font-weight: 500;">Total PRs</td>
-                <td align="right" style="border: none; padding: 0;">
-                  <span style="display: inline-block; background: rgba(138, 43, 226, 0.1); border: 1px solid rgba(138, 43, 226, 0.25); padding: 2px 10px; border-radius: 12px; font-size: 12px; color: #a855f7; font-weight: 700;">0</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none; padding: 7px 0; border-top: 1px solid #21262d;">
-            <table width="100%" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;">
-                <td width="20" style="border: none; padding: 0; color: #58a6ff; font-size: 14px; vertical-align: middle;">❗</td>
-                <td style="border: none; padding: 0; color: #c9d1d9; font-size: 13px; font-weight: 500;">Total Issues</td>
-                <td align="right" style="border: none; padding: 0;">
-                  <span style="display: inline-block; background: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.25); padding: 2px 10px; border-radius: 12px; font-size: 12px; color: #58a6ff; font-weight: 700;">1</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none; padding: 7px 0; border-top: 1px solid #21262d;">
-            <table width="100%" style="border-collapse: collapse; border: none;">
-              <tr style="border: none;">
-                <td width="20" style="border: none; padding: 0; color: #ff007f; font-size: 14px; vertical-align: middle;">📦</td>
-                <td style="border: none; padding: 0; color: #c9d1d9; font-size: 13px; font-weight: 500;">Contributed to (last year)</td>
-                <td align="right" style="border: none; padding: 0;">
-                  <span style="display: inline-block; background: rgba(255, 0, 127, 0.1); border: 1px solid rgba(255, 0, 127, 0.25); padding: 2px 10px; border-radius: 12px; font-size: 12px; color: #ff007f; font-weight: 700;">0</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Spacer -->
-    <td width="4%" style="border: none;"></td>
-    <!-- Right: Streak Stats (Same UI) -->
-    <td width="48%" valign="top" style="border: none; padding: 20px 20px 20px 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=30363d&amp;border_radius=8" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin-bottom: 20px;">
+  <!-- Heading (full width, black bg, inside container, centered, no emoji) -->
+  <div align="center" style="background: #000000; padding: 16px 20px;">
+    <h3 style="margin: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; border-bottom: none; display: inline-block;">GitHub Analytics</h3>
+  </div>
+
+  <!-- Content (inside the container) -->
+  <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: #161b22;">
+    <tr style="border: none;">
+      <!-- Left: GitHub Stats (Redesigned UI) -->
+      <td width="48%" valign="middle" style="border: none; padding: 25px; border-right: 1px solid #30363d; background: #161b22;">
+        <span style="font-size: 10px; font-weight: 700; color: #00f2fe; letter-spacing: 1.5px; text-transform: uppercase; display: block; margin-bottom: 6px;">OVERVIEW</span>
+        <h4 style="margin: 0 0 16px 0; color: #ffffff; font-weight: 600; font-size: 15px; border-bottom: none;">Raushan Kumar's GitHub Stats</h4>
+        
+        <!-- Stat Items without nested tables to avoid GitHub's default table borders -->
+        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
+          <span style="font-size: 12.5px; color: #c9d1d9;">⭐ &nbsp; Total Stars Earned</span>
+          <span style="float: right; font-size: 12.5px; color: #ff9933; font-weight: 700;">0</span>
+          <div style="clear: both;"></div>
+        </div>
+        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
+          <span style="font-size: 12.5px; color: #c9d1d9;">🔥 &nbsp; Total Commits (last year)</span>
+          <span style="float: right; font-size: 12.5px; color: #22c55e; font-weight: 700;">5</span>
+          <div style="clear: both;"></div>
+        </div>
+        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
+          <span style="font-size: 12.5px; color: #c9d1d9;">🔀 &nbsp; Total PRs</span>
+          <span style="float: right; font-size: 12.5px; color: #a855f7; font-weight: 700;">0</span>
+          <div style="clear: both;"></div>
+        </div>
+        <div style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #21262d;">
+          <span style="font-size: 12.5px; color: #c9d1d9;">❗ &nbsp; Total Issues</span>
+          <span style="float: right; font-size: 12.5px; color: #58a6ff; font-weight: 700;">1</span>
+          <div style="clear: both;"></div>
+        </div>
+        <div style="margin: 8px 0; padding: 6px 0 0 0;">
+          <span style="font-size: 12.5px; color: #c9d1d9;">📦 &nbsp; Contributed to (last year)</span>
+          <span style="float: right; font-size: 12.5px; color: #ff007f; font-weight: 700;">0</span>
+          <div style="clear: both;"></div>
+        </div>
+      </td>
+      
+      <!-- Right: Streak Stats (Same UI) -->
+      <td width="52%" valign="middle" style="border: none; padding: 25px; background: #161b22;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=161b22&amp;border_radius=8" width="100%" alt="GitHub Streak" style="display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Activity Graph -->
 <p align="center" style="margin-top: 15px;">
