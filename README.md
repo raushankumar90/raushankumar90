@@ -47,49 +47,49 @@
 
 <table align="center" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; width: 100%;">
   <tr style="border: none;">
-    <td align="left" style="border: none; padding: 8px 0; font-size: 14px; line-height: 2;">
-      <strong style="color: #00f2fe; display: inline-block; width: 140px; vertical-align: middle;">Frontend</strong>
-      <span style="vertical-align: middle;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin: 2px;" />
-      </span>
+    <td align="left" style="border: none; padding: 12px 0;">
+      <div style="color: #00f2fe; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Frontend</div>
+      <div>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 2px 4px 2px 0;" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin: 2px 4px;" />
+      </div>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="left" style="border: none; padding: 8px 0; font-size: 14px; line-height: 2;">
-      <strong style="color: #ff9933; display: inline-block; width: 140px; vertical-align: middle;">Backend</strong>
-      <span style="vertical-align: middle;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 2px;" />
-      </span>
+    <td align="left" style="border: none; padding: 12px 0;">
+      <div style="color: #ff9933; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Backend</div>
+      <div>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 2px 4px 2px 0;" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 2px 4px;" />
+      </div>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="left" style="border: none; padding: 8px 0; font-size: 14px; line-height: 2;">
-      <strong style="color: #22c55e; display: inline-block; width: 140px; vertical-align: middle;">Database</strong>
-      <span style="vertical-align: middle;">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Redis-CC0000?style=flat&logo=redis&logoColor=white" alt="Redis" style="margin: 2px;" />
-      </span>
+    <td align="left" style="border: none; padding: 12px 0;">
+      <div style="color: #22c55e; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Database</div>
+      <div>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 2px 4px 2px 0;" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/Redis-CC0000?style=flat&logo=redis&logoColor=white" alt="Redis" style="margin: 2px 4px;" />
+      </div>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="left" style="border: none; padding: 8px 0; font-size: 14px; line-height: 2;">
-      <strong style="color: #58a6ff; display: inline-block; width: 140px; vertical-align: middle;">Cloud &amp; DevOps</strong>
-      <span style="vertical-align: middle;">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" style="margin: 2px;" />
-      </span>
+    <td align="left" style="border: none; padding: 12px 0;">
+      <div style="color: #58a6ff; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Cloud &amp; DevOps</div>
+      <div>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin: 2px 4px 2px 0;" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="margin: 2px 4px;" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" style="margin: 2px 4px;" />
+      </div>
     </td>
   </tr>
 </table>
