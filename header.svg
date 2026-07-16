@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="100%" height="280" style="background: transparent;">
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px) translateX(0px); }
+      50% { transform: translateY(-10px) translateX(5px); }
+    }
+    @keyframes float-reverse {
+      0%, 100% { transform: translateY(0px) translateX(0px); }
+      50% { transform: translateY(8px) translateX(-5px); }
+    }
+    
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+    }
+    
+    .subtitle-wrapper {
+      font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace;
+      font-size: 18px;
+      font-weight: 600;
+      fill: #a0aec0;
+    }
+    
+    .cursor {
+      animation: blink 0.8s infinite;
+      fill: #00f2fe;
+    }
+    
+    .border-glow {
+      stroke: url(#neonGradient);
+      stroke-width: 1.5;
+      stroke-opacity: 0.4;
+      fill: #0d1117;
+      fill-opacity: 0.85;
+      rx: 12px;
+      filter: drop-shadow(0 4px 20px rgba(138, 43, 226, 0.15));
+    }
+
+    .sparkle {
+      animation: pulse 3s infinite ease-in-out;
+    }
+
+    .aurora-1 {
+      animation: float 8s infinite ease-in-out;
+    }
+    .aurora-2 {
+      animation: float-reverse 10s infinite ease-in-out;
+    }
+  </style>
+
+  <defs>
+    <!-- Shifting Gradient -->
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#8a2be2; #00f2fe; #ff007f; #8a2be2" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#00f2fe; #ff007f; #8a2be2; #00f2fe" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Blur Filter for Aurora Graphics -->
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35" />
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.04" />
+    </pattern>
+
+    <!-- Absolute coordinates clip path: starts at x=70, y=140 -->
+    <clipPath id="typingClip">
+      <rect id="clipRect" x="70" y="140" width="0" height="40">
+        <animate attributeName="width" 
+                 values="0; 220; 220; 0; 0; 270; 270; 0; 0" 
+                 keyTimes="0; 0.40; 0.45; 0.49; 0.50; 0.90; 0.95; 0.99; 1" 
+                 dur="10s" 
+                 repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Aurora Graphics Behind the Container -->
+  <g filter="url(#blur)">
+    <!-- Cyan Aurora Blob -->
+    <circle cx="100" cy="100" r="110" fill="#00f2fe" opacity="0.25" class="aurora-1" />
+    <!-- Purple Aurora Blob -->
+    <circle cx="420" cy="180" r="120" fill="#8a2be2" opacity="0.2" class="aurora-2" />
+    <!-- Pink Aurora Blob -->
+    <circle cx="700" cy="120" r="100" fill="#ff007f" opacity="0.2" class="aurora-1" />
+  </g>
+
+  <!-- Grid overlay -->
+  <rect x="5" y="5" width="790" height="270" fill="url(#grid)" rx="12" />
+
+  <!-- Background starry dots -->
+  <g fill="#30363d">
+    <circle cx="80" cy="50" r="1.5" class="sparkle" style="animation-delay: 0s" />
+    <circle cx="720" cy="220" r="2" class="sparkle" style="animation-delay: 1.5s" />
+    <circle cx="120" cy="190" r="1" class="sparkle" style="animation-delay: 0.7s" />
+    <circle cx="680" cy="60" r="2" class="sparkle" style="animation-delay: 2.2s" />
+  </g>
+
+  <!-- Welcome Label -->
+  <text x="45" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" font-size="12" fill="#58a6ff" letter-spacing="2">DEVELOPER PROFILE</text>
+
+  <!-- Main Title -->
+  <text x="45" y="105" class="title">
+    <tspan fill="#ffffff">Hi, I'm </tspan>
+    <tspan fill="#ff9933">Raushan </tspan>
+    <tspan fill="#22c55e">Kumar</tspan>
+  </text>
+
+  <!-- Subtitle Static Prefix -->
+  <text x="45" y="160" class="subtitle-wrapper">
+    <tspan fill="#8b949e">&gt; </tspan>
+  </text>
+
+  <!-- Subtitle Animated Typing (using clip path directly on elements) -->
+  <text x="70" y="160" class="subtitle-wrapper" fill="#00f2fe" clip-path="url(#typingClip)">
+    <tspan>
+      <animate attributeName="opacity" values="1; 1; 0; 0; 0; 0; 1" keyTimes="0; 0.45; 0.49; 0.95; 0.98; 0.99; 1" dur="10s" repeatCount="indefinite" />
+      Full Stack Developer
+    </tspan>
+  </text>
+  <text x="70" y="160" class="subtitle-wrapper" fill="#ff007f" clip-path="url(#typingClip)">
+    <tspan>
+      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.45; 0.49; 0.95; 0.98; 0.99; 1" dur="10s" repeatCount="indefinite" />
+      Problem Solver &amp; Builder
+    </tspan>
+  </text>
+
+  <!-- Blinking Cursor -->
+  <rect x="70" y="142" width="3" height="22" class="cursor">
+    <animateTransform attributeName="transform" type="translate"
+                      values="0,0; 220,0; 220,0; 0,0; 0,0; 270,0; 270,0; 0,0; 0,0"
+                      keyTimes="0; 0.40; 0.45; 0.49; 0.50; 0.90; 0.95; 0.99; 1"
+                      dur="10s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Divider Line -->
+  <line x1="45" y1="195" x2="755" y2="195" stroke="#30363d" stroke-width="1" stroke-opacity="0.6" />
+
+  <!-- Description Tagline -->
+  <text x="45" y="225" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8b949e" font-weight="500">
+    <tspan x="45" dy="0">🚀 Transforming ideas into high-performance web solutions.</tspan>
+    <tspan x="45" dy="22">Specialized in full-stack engineering, responsive interfaces, and scalable backends.</tspan>
+  </text>
+</svg>
