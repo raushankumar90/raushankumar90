@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="850" height="280">
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      transition: stroke 0.3s, fill 0.3s;
+    }
+    .card:hover {
+      stroke: #ff9933;
+    }
+    .card-focus:hover {
+      stroke: #22c55e;
+    }
+    .text-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .text-subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+    }
+    .text-body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 13.5px;
+      fill: #8b949e;
+    }
+    .text-detail-label {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      fill: #8b949e;
+      letter-spacing: 1.5px;
+    }
+    .text-detail-val {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .domain-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .domain-desc {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 12.5px;
+      fill: #8b949e;
+    }
+  </style>
+
+  <!-- Biography Card -->
+  <g>
+    <rect class="card" x="0.5" y="0.5" width="409" height="279" rx="8" />
+    <text class="text-subtitle" x="20" y="35" fill="#ff9933">BIOGRAPHY</text>
+    <text class="text-title" x="20" y="62">Raushan Kumar</text>
+    <text class="text-body" x="20" y="92">
+      <tspan x="20" dy="0">A passionate Full Stack Engineer specializing in</tspan>
+      <tspan x="20" dy="20">engineering scalable backends, performant database</tspan>
+      <tspan x="20" dy="20">architectures, and intuitive web interfaces. Dedicated</tspan>
+      <tspan x="20" dy="20">to writing clean, maintainable code and solving</tspan>
+      <tspan x="20" dy="20">complex technical challenges.</tspan>
+    </text>
+    <line x1="20" y1="200" x2="390" y2="200" stroke="#30363d" stroke-width="1" />
+    <text class="text-detail-label" x="20" y="225">ROLE</text>
+    <text class="text-detail-val" x="20" y="245">Full Stack Developer</text>
+    <text class="text-detail-label" x="220" y="225">LOCATION</text>
+    <text class="text-detail-val" x="220" y="245">India</text>
+  </g>
+
+  <!-- Core Domains Card -->
+  <g>
+    <rect class="card card-focus" x="439.5" y="0.5" width="409" height="279" rx="8" />
+    <text class="text-subtitle" x="460" y="35" fill="#22c55e">CURRENT FOCUS</text>
+    <text class="text-title" x="460" y="62">Core Domains</text>
+    
+    <!-- Domain 1 -->
+    <text class="domain-title" x="460" y="98">
+      <tspan fill="#22c55e">—</tspan> <tspan fill="#ffffff" dx="6">Distributed Systems</tspan>
+    </text>
+    <text class="domain-desc" x="478" y="118">Designing message queues and caching layers for scale.</text>
+    
+    <!-- Domain 2 -->
+    <text class="domain-title" x="460" y="158">
+      <tspan fill="#ff9933">—</tspan> <tspan fill="#ffffff" dx="6">Cloud Infrastructure</tspan>
+    </text>
+    <text class="domain-desc" x="478" y="178">Implementing containerized orchestrations and CI/CD.</text>
+    
+    <!-- Domain 3 -->
+    <text class="domain-title" x="460" y="218">
+      <tspan fill="#58a6ff">—</tspan> <tspan fill="#ffffff" dx="6">UI Engineering</tspan>
+    </text>
+    <text class="domain-desc" x="478" y="238">Tuning responsive web interfaces for performance.</text>
+  </g>
+</svg>
