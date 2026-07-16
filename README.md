@@ -17,10 +17,16 @@
 <h3 style="color: #00f2fe; background: rgba(0, 242, 254, 0.08); border: 1px solid rgba(0, 242, 254, 0.25); padding: 8px 24px; border-radius: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; font-style: italic; display: inline-block; margin-top: 10px; margin-bottom: 20px;">GitHub Analytics</h3>
 </div>
 <!-- GitHub Stats & Streak Cards -->
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=raushankumar90&amp;show_icons=true&amp;theme=dark&amp;bg_color=161b22&amp;border_color=30363d&amp;title_color=00f2fe&amp;icon_color=8a2be2&amp;text_color=a0aec0&amp;border_radius=8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=30363d&amp;border_radius=8" height="175" alt="GitHub Streak" />
-</p>
+<table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <tr style="border: none;">
+    <td align="right" width="50%" style="border: none; padding: 0 10px 0 0;">
+      <img src="https://github-stats-extended.vercel.app/api?username=raushankumar90&amp;show_icons=true&amp;theme=dark&amp;bg_color=161b22&amp;border_color=30363d&amp;title_color=00f2fe&amp;icon_color=8a2be2&amp;text_color=a0aec0&amp;border_radius=8" height="175" alt="GitHub Stats" />
+    </td>
+    <td align="left" width="50%" style="border: none; padding: 0 0 0 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar90&amp;theme=dark&amp;background=161b22&amp;ring=8a2be2&amp;fire=ff007f&amp;currStreakNum=00f2fe&amp;sideNums=a0aec0&amp;sideLabels=a0aec0&amp;dates=8b949e&amp;stroke=30363d&amp;border=30363d&amp;border_radius=8" height="175" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph -->
 <p align="center" style="margin-top: 15px;">
