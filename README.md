@@ -14,7 +14,35 @@ I specialize in building high-quality, scalable web applications and partnering 
 - 💬 Ask me about **frontend architecture, backend APIs, and UI/UX implementation**.
 - 📫 Reach me at: **[Your Email Address]**
 
----
+---<div align="center">
+
+  <!-- 1. Banner Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004b23&height=250&section=header&text=Raushan&fontSize=70&fontColor=ffffff&desc=Web%20Developer%20|%20Founder%20|%20Mentor&descAlignY=75&descSize=20" alt="Profile Banner" width="100%" />
+
+  <br><br>
+
+  <!-- 2. Animated Typing Text (Green) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Turning+ideas+into+real+products...;Learning+TypeScript+|+Docker+|+PostgreSQL;Mentoring+the+next+generation+of+developers;Building+scalable+web+applications" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <!-- 3. Dynamic Stats Badges (Dark/Green Theme) -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=2ecc71&style=for-the-badge&base=2000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=2ecc71&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=2ecc71" alt="Stars" />
+
+  <br><br><br>
+
+  <!-- 4. Text Introduction -->
+  <h2>Hey, I'm Raushan</h2>
+  
+  <p><b>Experienced Web Developer focused on building clean, scalable and real-world web applications.</b></p>
+  
+  <p>I partner with clients through SoftEdge Solution to build production-style projects, while actively mentoring junior developers to write high-quality code.</p>
+
+</div>
 
 ### 💻 Tech Stack
 <!-- Use standard badges from shields.io. Replace with your actual stack -->
