@@ -339,37 +339,14 @@ Currently planning a high-impact open-source build. Have an interesting idea? Le
   <h3 id="lets-connect" style="color: #ff9933; background: rgba(255, 153, 51, 0.08); border: 1px solid rgba(255, 153, 51, 0.25); padding: 8px 24px; border-radius: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; font-style: italic; display: inline-block; margin-top: 10px; margin-bottom: 20px;">Let's Connect</h3>
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-<tr style="border: none;">
-<!-- LinkedIn Card -->
-<td width="30%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; text-align: center;">
-<img src="https://cdn.simpleicons.org/linkedin/0077b5" width="24" height="24" style="margin-bottom: 12px; display: inline-block;" />
-<h4 style="margin: 0 0 6px 0; color: #ffffff; font-size: 14px; font-weight: 600;">Professional Network</h4>
-<p style="color: #8b949e; font-size: 11.5px; line-height: 1.5; margin: 0 0 16px 0; height: 36px; overflow: hidden;">Career updates, articles, and industry networking.</p>
-<a href="https://linkedin.com/in/raushankumar90" target="_blank" style="display: inline-block; background: #0077b5; border: 1px solid #006699; padding: 6px 16px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600; width: 80%;">Connect →</a>
-</td>
-<!-- Spacer -->
-<td width="5%" style="border: none;"></td>
-<!-- Email Card -->
-<td width="30%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; text-align: center;">
-<img src="https://cdn.simpleicons.org/gmail/d14836" width="24" height="24" style="margin-bottom: 12px; display: inline-block;" />
-<h4 style="margin: 0 0 6px 0; color: #ffffff; font-size: 14px; font-weight: 600;">Direct Inquiry</h4>
-<p style="color: #8b949e; font-size: 11.5px; line-height: 1.5; margin: 0 0 16px 0; height: 36px; overflow: hidden;">Collaboration, contract builds, or hiring inquiries.</p>
-<a href="mailto:raushankumar90@gmail.com" target="_blank" style="display: inline-block; background: #d14836; border: 1px solid #b83a2b; padding: 6px 16px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600; width: 80%;">Send Mail →</a>
-</td>
-<!-- Spacer -->
-<td width="5%" style="border: none;"></td>
-<!-- Twitter/X Card -->
-<td width="30%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; text-align: center;">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="24" height="24" style="margin-bottom: 12px; display: inline-block;" />
-<h4 style="margin: 0 0 6px 0; color: #ffffff; font-size: 14px; font-weight: 600;">Social Media</h4>
-<p style="color: #8b949e; font-size: 11.5px; line-height: 1.5; margin: 0 0 16px 0; height: 36px; overflow: hidden;">Tech thoughts, build-in-public, and engineering discussions.</p>
-<a href="https://twitter.com/raushankumar90" target="_blank" style="display: inline-block; background: #21262d; border: 1px solid #30363d; padding: 6px 16px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600; width: 80%;">Follow →</a>
-</td>
-</tr>
-</table>
-<p style="color: #8b949e; font-size: 11.5px; line-height: 1.5; margin: 0 0 16px 0; height: 36px; overflow: hidden;">Tech thoughts, build-in-public, and engineering discussions.</p>
-<a href="https://twitter.com/raushankumar90" target="_blank" style="display: inline-block; background: #21262d; border: 1px solid #30363d; padding: 6px 16px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600; width: 80%;">Follow →</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/raushankumar90" target="_blank" style="margin: 8px; display: inline-block;">
+    <img src="connect_linkedin.svg" height="220" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raushankumar90@gmail.com" style="margin: 8px; display: inline-block;">
+    <img src="connect_email.svg" height="220" alt="Email" />
+  </a>
+  <a href="https://twitter.com/raushankumar90" target="_blank" style="margin: 8px; display: inline-block;">
+    <img src="connect_twitter.svg" height="220" alt="Twitter/X" />
+  </a>
+</p>

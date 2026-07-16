@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 220" width="260" height="220">
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      transition: stroke 0.3s, fill 0.3s;
+    }
+    .btn {
+      fill: #d14836;
+      transition: fill 0.3s;
+    }
+    svg:hover .card {
+      stroke: #d14836;
+      fill: #1f242c;
+    }
+    svg:hover .btn {
+      fill: #b03525;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+    .desc {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 11.5px;
+      fill: #8b949e;
+    }
+    .btn-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+  </style>
+  
+  <!-- Card Background -->
+  <rect class="card" x="0.5" y="0.5" width="259" height="219" rx="8" />
+
+  <!-- Gmail Icon -->
+  <g transform="translate(118, 24)">
+    <path fill="#d14836" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-1.298 1.458-2.057 2.509-1.27l9.49 7.12 9.49-7.12c1.051-.787 2.51.028 2.51 1.27z"/>
+  </g>
+
+  <!-- Card Title -->
+  <text class="title" x="130" y="76" text-anchor="middle">Direct Inquiry</text>
+
+  <!-- Description (Multi-line) -->
+  <text class="desc" x="130" y="100" text-anchor="middle">Collaboration, contract builds,</text>
+  <text class="desc" x="130" y="118" text-anchor="middle">or hiring inquiries.</text>
+
+  <!-- Button -->
+  <rect class="btn" x="40" y="152" width="180" height="34" rx="6" />
+  <text class="btn-text" x="130" y="173" text-anchor="middle">Send Mail →</text>
+</svg>
