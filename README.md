@@ -5,7 +5,7 @@
       <img src="header.svg?v=11" width="100%" alt="Raushan Kumar Header" style="display: block; margin: 0 auto 15px auto;" />
       <p align="center" style="margin: 0; padding: 0;">
         <img src="https://komarev.com/ghpvc/?username=raushankumar90&amp;color=8a2be2&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
-        <img src="https://img.shields.io/github/stars/raushankumar90?style=flat-square&amp;labelColor=21262d&amp;color=00f2fe&amp;logo=github&amp;label=STARS" alt="Total Stars" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
+        <img src="https://img.shields.io/github/stars/raushankumar90?style=flat-square&amp; labelColor=21262d&amp;color=00f2fe&amp;logo=github&amp;label=STARS" alt="Total Stars" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
         <img src="https://img.shields.io/github/followers/raushankumar90?style=flat-square&amp;labelColor=21262d&amp;color=ff007f&amp;logo=github&amp;label=FOLLOWERS" alt="Followers" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
       </p>
     </td>
@@ -100,238 +100,59 @@
   <h3 style="color: #22c55e; background: rgba(34, 197, 94, 0.08); border: 1px solid rgba(34, 197, 94, 0.25); padding: 8px 24px; border-radius: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; font-style: italic; display: inline-block; margin-top: 10px; margin-bottom: 20px;">Featured Projects</h3>
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-<!-- Row 1: Project 1 & Project 2 -->
-<tr style="border: none;">
-<!-- Project 1 (DevFlow) -->
-<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 0; overflow: hidden;">
-<img src="https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&amp;fit=crop&amp;w=800&amp;q=80" width="100%" alt="DevFlow Mockup" style="border-bottom: 1px solid #30363d; display: block; border-top-left-radius: 8px; border-top-right-radius: 8px;" />
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td style="border: none; padding: 15px;">
-<!-- Header Row -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 8px;">
-<tr style="border: none;">
-<td style="border: none; padding: 0;">
-<h3 style="margin: 0; color: #ffffff; font-weight: 600; font-size: 16px; border: none; display: inline-block;">DevFlow</h3>
-</td>
-<td style="border: none; padding: 0;" align="right">
-<span style="font-size: 9px; font-weight: 700; color: #ff9933; background: rgba(255, 153, 51, 0.1); border: 1px solid rgba(255, 153, 51, 0.3); padding: 2px 6px; border-radius: 10px; text-transform: uppercase; letter-spacing: 0.5px;">Collab</span>
-</td>
-</tr>
-</table>
-<!-- Indented quote description -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 12px;">
-<tr style="border: none;">
-<td style="border: none; border-left: 2px solid #ff9933; padding: 2px 0 2px 10px;">
-<p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0; height: 36px; overflow: hidden;">
-A developer Q&amp;A platform with AI-powered answers, markdown editing, and real-time collaboration.
-</p>
-</td>
-</tr>
-</table>
-<!-- Specs / Status Indicator -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 14px;">
-<tr style="border: none;">
-<td valign="middle" style="border: none; padding: 0; color: #8b949e; font-size: 11px;">
-<span style="color: #f85149; font-size: 12px; vertical-align: middle; margin-right: 4px;">●</span>High Complexity
-</td>
-<td valign="middle" style="border: none; padding: 0;" align="right">
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">React</span>
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">Next.js</span>
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">MongoDB</span>
-</td>
-</tr>
-</table>
-<!-- Buttons Footer -->
-<table width="100%" style="border-collapse: collapse; border: none; border-top: 1px solid #30363d;">
-<tr style="border: none;">
-<td style="border: none; padding: 12px 0 0 0;">
-<a href="https://github.com/raushankumar90/devflow" target="_blank" style="display: inline-block; background: #21262d; border: 1px solid #30363d; padding: 5px 12px; border-radius: 6px; color: #c9d1d9; font-size: 11px; text-decoration: none; font-weight: 600; margin-right: 6px;">Codebase</a>
-<a href="https://devflow.demo" target="_blank" style="display: inline-block; background: #238636; border: 1px solid #2ea44f; padding: 5px 12px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600;">Live Demo</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-<!-- Spacer -->
-<td width="4%" style="border: none;"></td>
-<!-- Project 2 (Storeify) -->
-<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 0; overflow: hidden;">
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&amp;fit=crop&amp;w=800&amp;q=80" width="100%" alt="Storeify Mockup" style="border-bottom: 1px solid #30363d; display: block; border-top-left-radius: 8px; border-top-right-radius: 8px;" />
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td style="border: none; padding: 15px;">
-<!-- Header Row -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 8px;">
-<tr style="border: none;">
-<td style="border: none; padding: 0;">
-<h3 style="margin: 0; color: #ffffff; font-weight: 600; font-size: 16px; border: none; display: inline-block;">Storeify</h3>
-</td>
-<td style="border: none; padding: 0;" align="right">
-<span style="font-size: 9px; font-weight: 700; color: #22c55e; background: rgba(34, 197, 94, 0.1); border: 1px solid rgba(34, 197, 94, 0.3); padding: 2px 6px; border-radius: 10px; text-transform: uppercase; letter-spacing: 0.5px;">E-Comm</span>
-</td>
-</tr>
-</table>
-<!-- Indented quote description -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 12px;">
-<tr style="border: none;">
-<td style="border: none; border-left: 2px solid #22c55e; padding: 2px 0 2px 10px;">
-<p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0; height: 36px; overflow: hidden;">
-A high-performance e-commerce engine focusing on sub-second catalog query latency and charts dashboard.
-</p>
-</td>
-</tr>
-</table>
-<!-- Specs / Status Indicator -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 14px;">
-<tr style="border: none;">
-<td valign="middle" style="border: none; padding: 0; color: #8b949e; font-size: 11px;">
-<span style="color: #db6d28; font-size: 12px; vertical-align: middle; margin-right: 4px;">●</span>Med-High Complexity
-</td>
-<td valign="middle" style="border: none; padding: 0;" align="right">
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">Next.js</span>
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">Postgres</span>
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">Redis</span>
-</td>
-</tr>
-</table>
-<!-- Buttons Footer -->
-<table width="100%" style="border-collapse: collapse; border: none; border-top: 1px solid #30363d;">
-<tr style="border: none;">
-<td style="border: none; padding: 12px 0 0 0;">
-<a href="https://github.com/raushankumar90/storeify" target="_blank" style="display: inline-block; background: #21262d; border: 1px solid #30363d; padding: 5px 12px; border-radius: 6px; color: #c9d1d9; font-size: 11px; text-decoration: none; font-weight: 600; margin-right: 6px;">Codebase</a>
-<a href="https://storeify.demo" target="_blank" style="display: inline-block; background: #238636; border: 1px solid #2ea44f; padding: 5px 12px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600;">Live Demo</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
+<div align="center">
 
-<!-- Spacer row -->
-<tr style="border: none; height: 16px;">
-<td colspan="3" style="border: none; height: 16px; padding: 0;"></td>
-</tr>
+### **UbrainLab**
 
-<!-- Row 2: Project 3 & Coming Soon -->
-<tr style="border: none;">
-<!-- Project 3 (CloudGuard) -->
-<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 0; overflow: hidden;">
-<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&amp;fit=crop&amp;w=800&amp;q=80" width="100%" alt="CloudGuard Mockup" style="border-bottom: 1px solid #30363d; display: block; border-top-left-radius: 8px; border-top-right-radius: 8px;" />
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td style="border: none; padding: 15px;">
-<!-- Header Row -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 8px;">
-<tr style="border: none;">
-<td style="border: none; padding: 0;">
-<h3 style="margin: 0; color: #ffffff; font-weight: 600; font-size: 16px; border: none; display: inline-block;">CloudGuard</h3>
-</td>
-<td style="border: none; padding: 0;" align="right">
-<span style="font-size: 9px; font-weight: 700; color: #58a6ff; background: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.3); padding: 2px 6px; border-radius: 10px; text-transform: uppercase; letter-spacing: 0.5px;">Cloud</span>
-</td>
-</tr>
-</table>
-<!-- Indented quote description -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 12px;">
-<tr style="border: none;">
-<td style="border: none; border-left: 2px solid #58a6ff; padding: 2px 0 2px 10px;">
-<p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0; height: 36px; overflow: hidden;">
-An operations dashboard for cloud metric telemetry and real-time Container resource load scaling monitoring.
+<p align="center" style="margin: 15px 0;">
+  <img src="assests/image.png" width="90%" style="border-radius: 10px; border: 1px solid #30363d;" alt="UbrainLab Website Preview" />
 </p>
-</td>
-</tr>
-</table>
-<!-- Specs / Status Indicator -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 14px;">
-<tr style="border: none;">
-<td valign="middle" style="border: none; padding: 0; color: #8b949e; font-size: 11px;">
-<span style="color: #f85149; font-size: 12px; vertical-align: middle; margin-right: 4px;">●</span>High Complexity
-</td>
-<td valign="middle" style="border: none; padding: 0;" align="right">
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">TypeScript</span>
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">Docker</span>
-<span style="display: inline-block; background: #0d1117; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #c9d1d9; font-weight: 500; margin: 1px;">AWS</span>
-</td>
-</tr>
-</table>
-<!-- Buttons Footer -->
-<table width="100%" style="border-collapse: collapse; border: none; border-top: 1px solid #30363d;">
-<tr style="border: none;">
-<td style="border: none; padding: 12px 0 0 0;">
-<a href="https://github.com/raushankumar90/cloudguard" target="_blank" style="display: inline-block; background: #21262d; border: 1px solid #30363d; padding: 5px 12px; border-radius: 6px; color: #c9d1d9; font-size: 11px; text-decoration: none; font-weight: 600; margin-right: 6px;">Codebase</a>
-<a href="https://cloudguard.demo" target="_blank" style="display: inline-block; background: #238636; border: 1px solid #2ea44f; padding: 5px 12px; border-radius: 6px; color: #ffffff; font-size: 11px; text-decoration: none; font-weight: 600;">Live Demo</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-<!-- Spacer -->
-<td width="4%" style="border: none;"></td>
-<!-- Project 4 (Coming Soon) -->
-<td width="48%" valign="top" style="border: none; background: #161b22; border: 1px dashed #30363d; border-radius: 8px; padding: 0; overflow: hidden; opacity: 0.85;">
-<table width="100%" height="130" style="border-collapse: collapse; border: none; background: #0d1117; border-bottom: 1px dashed #30363d;">
-<tr style="border: none;">
-<td align="center" valign="middle" style="border: none; height: 130px; font-size: 40px; font-weight: 700; color: #30363d;">?</td>
-</tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td style="border: none; padding: 15px;">
-<!-- Header Row -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 8px;">
-<tr style="border: none;">
-<td style="border: none; padding: 0;">
-<h3 style="margin: 0; color: #8b949e; font-weight: 600; font-size: 16px; border: none; display: inline-block;">Next Big Thing</h3>
-</td>
-<td style="border: none; padding: 0;" align="right">
-<span style="font-size: 9px; font-weight: 700; color: #8b949e; background: rgba(139, 148, 158, 0.1); border: 1px solid rgba(139, 148, 158, 0.3); padding: 2px 6px; border-radius: 10px; text-transform: uppercase; letter-spacing: 0.5px;">R&amp;D</span>
-</td>
-</tr>
-</table>
-<!-- Indented quote description -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 12px;">
-<tr style="border: none;">
-<td style="border: none; border-left: 2px dashed #30363d; padding: 2px 0 2px 10px;">
-<p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0; height: 36px; overflow: hidden;">
-Currently planning a high-impact open-source build. Have an interesting idea? Let's connect!
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Framer_Motion-F01F7A?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
-</td>
-</tr>
-</table>
-<!-- Specs / Status Indicator -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 14px;">
-<tr style="border: none;">
-<td valign="middle" style="border: none; padding: 0; color: #8b949e; font-size: 11px;">
-<span style="color: #8b949e; font-size: 12px; vertical-align: middle; margin-right: 4px;">●</span>TBD Complexity
-</td>
-<td valign="middle" style="border: none; padding: 0;" align="right">
-<span style="display: inline-block; background: #0d1117; border: 1px dashed #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #8b949e; font-weight: 500; margin: 1px;">AI</span>
-<span style="display: inline-block; background: #0d1117; border: 1px dashed #30363d; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: #8b949e; font-weight: 500; margin: 1px;">LLMs</span>
-</td>
-</tr>
-</table>
-<!-- Buttons Footer -->
-<table width="100%" style="border-collapse: collapse; border: none; border-top: 1px solid #30363d;">
-<tr style="border: none;">
-<td style="border: none; padding: 12px 0 0 0;">
-<a href="#lets-connect" style="display: inline-block; background: #0d1117; border: 1px dashed #30363d; padding: 5px 12px; border-radius: 6px; color: #58a6ff; font-size: 11px; text-decoration: none; font-weight: 600;">Let's Talk</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+
+<p style="color: #8b949e; font-size: 14px; max-width: 600px; margin: 10px auto; line-height: 1.6;">
+  A free, 75-minute introductory AI awareness program designed to help participants understand what Artificial Intelligence really is — beyond myths, hype, and fear. Features interactive assessments and course materials.
+</p>
+
+<p style="margin-top: 15px; margin-bottom: 40px;">
+  <a href="https://ubrainlab.com" target="_blank" style="display: inline-block; background: #238636; border: 1px solid #2ea44f; padding: 6px 16px; border-radius: 6px; color: #ffffff; font-size: 12px; text-decoration: none; font-weight: 600;">Live Demo</a>
+</p>
+
+---
+
+### **Urekha Astro**
+
+<p align="center" style="margin: 15px 0;">
+  <img src="assests/image copy.png" width="90%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Urekha Astro Website Preview" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-F01F7A?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+<p style="color: #8b949e; font-size: 14px; max-width: 600px; margin: 10px auto; line-height: 1.6;">
+  A personalized astrological intelligence platform for Vedic Astrology. Synthesizes natal charts, planetary transits, and predictive karmic timelines using high-fidelity neural network engines.
+</p>
+
+<p style="margin-top: 15px; margin-bottom: 20px;">
+  <a href="https://astro.urekha.com" target="_blank" style="display: inline-block; background: #238636; border: 1px solid #2ea44f; padding: 6px 16px; border-radius: 6px; color: #ffffff; font-size: 12px; text-decoration: none; font-weight: 600;">Live Demo</a>
+</p>
+
+</div>
 
 <hr style="border: none; border-top: 1px solid #30363d; margin: 30px 0;" />
 
@@ -340,7 +161,7 @@ Currently planning a high-impact open-source build. Have an interesting idea? Le
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/raushankumar90" target="_blank" style="margin: 8px; display: inline-block;">
+  <a href="https://linkedin.com/in/raushan-kumar90" target="_blank" style="margin: 8px; display: inline-block;">
     <img src="connect_linkedin.svg" height="220" alt="LinkedIn" />
   </a>
   <a href="mailto:raushankumar90@gmail.com" style="margin: 8px; display: inline-block;">
