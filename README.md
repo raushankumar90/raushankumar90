@@ -5,7 +5,7 @@
       <img src="header.svg?v=11" width="100%" alt="Raushan Kumar Header" style="display: block; margin: 0 auto 15px auto;" />
       <p align="center" style="margin: 0; padding: 0;">
         <img src="https://komarev.com/ghpvc/?username=raushankumar90&amp;color=8a2be2&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
-        <img src="https://img.shields.io/github/stars/raushankumar90?style=flat-square&amp; labelColor=21262d&amp;color=00f2fe&amp;logo=github&amp;label=STARS" alt="Total Stars" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
+        <img src="https://img.shields.io/github/stars/raushankumar90?style=flat-square&amp;labelColor=21262d&amp;color=00f2fe&amp;logo=github&amp;label=STARS" alt="Total Stars" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
         <img src="https://img.shields.io/github/followers/raushankumar90?style=flat-square&amp;labelColor=21262d&amp;color=ff007f&amp;logo=github&amp;label=FOLLOWERS" alt="Followers" style="margin: 0 4px; display: inline-block; vertical-align: middle;" />
       </p>
     </td>
